@@ -49,17 +49,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-78\&layout=compact\&theme=radical)
 
----
-
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=prashant-singh-78)
-
----
-
-## 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=prashant-singh-78)
 
 ---
 
