@@ -38,6 +38,7 @@
 * 🎬 **Streamlite** – Full-stack video subscription platform
 * 🌾 **Krashi Kalyan** – Agriculture-based solution
 * 📊 ML Projects – Voice analysis & smart detection systems
+* medicure - a portable hospital
 
 ---
 
