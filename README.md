@@ -17,7 +17,7 @@
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** portfolio-2-o-two.vercel.app/
+🔗 **Live Portfolio:** https://portfolio-2-o-two.vercel.app/
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: https://prashant08.vercel.app/
+* 🌐 Portfolio: https://portfolio-2-o-two.vercel.app/
 * 💼 GitHub: https://github.com/prashant-singh-78
 
 ---
