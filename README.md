@@ -17,7 +17,7 @@
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** https://prashant08.vercel.app/
+🔗 **Live Portfolio:** portfolio-2-o-two.vercel.app/
 
 ---
 
