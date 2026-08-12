@@ -1,161 +1,137 @@
+<!-- Professional GitHub Profile README for Prashant Singh -->
+
 <div align="center">
-  <img src="./assets/neural-network.svg" width="100%" alt="Prashant Singh — AI Engineer and Full-Stack Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=230&section=header&text=Prashant%20Singh&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="Prashant Singh — AI Engineer and Full-Stack Developer" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Full-Stack+Development;Turning+ideas+into+intelligent+products" alt="Animated role introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+practical+AI-powered+products;Machine+Learning+%E2%80%A2+Full-Stack+Engineering+%E2%80%A2+RAG;Turning+real-world+problems+into+working+software" alt="Animated introduction" />
   </a>
-  <br />
+</div>
+
+<div align="center">
   <a href="https://portfolio-2-o-two.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0B1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=22D3EE" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
   </a>
   <a href="https://github.com/prashant-singh-78?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=C084FC" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub projects" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=prashant-singh-78&amp;label=Profile+views&amp;color=7c3aed&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prashant-singh-78&label=Profile%20Views&color=0369A1&style=for-the-badge" alt="Profile views" />
 </div>
 
-> whoami
+<br />
 
-I'm Prashant Singh, a B.Tech Computer Science (AI) student and product-focused developer from Rajasthan, India. I build practical AI and full-stack systems across healthcare, agriculture, education, productivity, and computer vision.
+## About Me
 
-🧠 Working with Machine Learning, CNNs, RAG, NLP and Computer Vision
+I am **Prashant Singh**, a Computer Science (Artificial Intelligence) student and developer from Rajasthan, India. I enjoy building complete products—from training intelligent models and designing APIs to creating responsive interfaces and deploying them for real users.
 
-⚙️ Building complete products with React / Next.js + Node.js / FastAPI / Flask
+- Building practical solutions across **healthcare, education, agriculture and productivity**
+- Interested in **Machine Learning, Computer Vision, RAG and intelligent web applications**
+- Comfortable working across the stack with **React, Next.js, Node.js, FastAPI and Flask**
+- Strengthening my foundations in **DSA, core CS subjects and scalable system design**
+- Open to **AI/ML and Software Development internships, collaborations and meaningful projects**
 
-🏆 Winner at the VGU National Project Exhibition
+## Core Expertise
 
-📚 Currently deepening DSA, system design and production-grade AI
+| AI & Machine Learning | Full-Stack Engineering | Product Development |
+| :--- | :--- | :--- |
+| ML pipelines, CNNs, computer vision, audio analysis and RAG | Responsive frontends, REST APIs, authentication and databases | Problem discovery, rapid prototyping, deployment and iteration |
 
-🎯 Mission: create intelligent software with measurable real-world impact
-
-> tech_stack --all
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,vite,tailwind&amp;perline=10" alt="Languages and frontend technologies" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,tensorflow,opencv,mongodb,sqlite,docker,git&amp;perline=10" alt="Backend, AI, databases and developer tools" />
-</div>
+## Technology Stack
 
 <div align="center">
 
-Keras · scikit-learn · Pandas · NumPy · Librosa · OpenCV · REST APIs · RAG · GitHub · Jupyter · Vercel · Render
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark" alt="Python, C++, JavaScript, TypeScript, HTML and CSS" />
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,flask,fastapi&theme=dark" alt="React, Next.js, Vite, Tailwind CSS, Node.js, Express, Flask and FastAPI" />
+
+### AI, Data & Databases
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,mongodb,sqlite&theme=dark" alt="TensorFlow, OpenCV, MongoDB and SQLite" />
+
+`Keras` · `scikit-learn` · `Pandas` · `NumPy` · `Librosa` · `CNNs` · `RAG` · `REST APIs`
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode&theme=dark" alt="Git, GitHub, Docker, Postman, Vercel and VS Code" />
+
+`Jupyter Notebook` · `Render` · `Linux`
 
 </div>
 
-> featured_projects --live
+## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 MockMate</h3>
-      <p>AI interview coach with practice sessions, intelligent feedback and a modern full-stack experience.</p>
-      <p><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>AI</code></p>
-      <a href="https://mockmate-sandy.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="MockMate live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/mockmate"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="MockMate source" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Medicure</h3>
-      <p>Portable smart-hospital platform for health assistance, doctor access, ambulance support and multilingual care.</p>
-      <p><code>Flask</code> <code>React</code> <code>ML</code> <code>Healthcare</code></p>
-      <a href="https://github.com/prashant-singh-78/medicure"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Medicure source" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ StudyShield</h3>
-      <p>Distraction-blocking browser extension and productivity frontend designed for focused study sessions.</p>
-      <p><code>JavaScript</code> <code>Browser Extension</code> <code>Vite</code></p>
-      <a href="https://github.com/prashant-singh-78/SWD"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="StudyShield source" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Management SaaS</h3>
-      <p>Role-based ERP workspace for Super Admins, HR teams and managers with a production-ready dashboard.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>RBAC</code></p>
-      <a href="https://management-saa-s-six.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Management SaaS live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/management.SaaS"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Management SaaS source" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗂️ Deta Hub</h3>
-      <p>Dataset discovery platform that connects data practitioners with useful datasets across multiple sources.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Data Platform</code></p>
-      <a href="https://deta-hub.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Deta Hub live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/deta-hub-"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Deta Hub source" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 Snake Verse</h3>
-      <p>AI-assisted snake identification experience focused on determining whether a species is venomous.</p>
-      <p><code>Python</code> <code>TensorFlow</code> <code>Computer Vision</code></p>
-      <a href="https://snake-verse-five.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Snake Verse live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/snake-verse"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Snake Verse source" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Skill Nova</h3>
-      <p>Modern learning platform with course discovery, responsive UX and integrated student support channels.</p>
-      <p><code>React</code> <code>Node.js</code> <code>JavaScript</code></p>
-      <a href="https://courses-plateform.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Skill Nova live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/courses-plateform"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Skill Nova source" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Coach</h3>
-      <p>Interactive AI-powered coaching application for interview preparation and guided skill improvement.</p>
-      <p><code>JavaScript</code> <code>React</code> <code>AI</code></p>
-      <a href="https://ai-coach-ochre-pi.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="AI Coach live demo" /></a>
-      <a href="https://github.com/prashant-singh-78/ai-coach"><img src="https://img.shields.io/badge/View-Source-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="AI Coach source" /></a>
-    </td>
-  </tr>
-</table>
+| Project | What it solves | Main stack | Links |
+| :--- | :--- | :--- | :---: |
+| **MockMate** | AI interview practice with structured sessions and intelligent feedback | TypeScript, React, FastAPI, AI | [Live ↗](https://mockmate-sandy.vercel.app) · [Source](https://github.com/prashant-singh-78/mockmate) |
+| **Medicure** | Smart healthcare platform connecting health assistance, doctors, ambulances and multilingual care | React, Flask, ML | [Source](https://github.com/prashant-singh-78/medicure) |
+| **Management SaaS** | Role-based ERP workspace for Super Admin, HR and Manager operations | TypeScript, React, Node.js | [Live ↗](https://management-saa-s-six.vercel.app) · [Source](https://github.com/prashant-singh-78/management.SaaS) |
+| **StudyShield** | Browser extension that blocks distractions and supports focused study sessions | JavaScript, Chrome APIs, Vite | [Source](https://github.com/prashant-singh-78/SWD) |
+| **Deta Hub** | Dataset discovery platform connecting data practitioners with useful dataset sources | Next.js, TypeScript | [Live ↗](https://deta-hub.vercel.app) · [Source](https://github.com/prashant-singh-78/deta-hub-) |
+| **Snake Verse** | Computer-vision experience for identifying snakes and understanding venom risk | Python, TensorFlow, CV | [Live ↗](https://snake-verse-five.vercel.app) · [Source](https://github.com/prashant-singh-78/snake-verse) |
+| **Skill Nova** | Modern course-discovery and learning platform with a responsive student experience | React, Node.js, JavaScript | [Live ↗](https://courses-plateform.vercel.app) · [Source](https://github.com/prashant-singh-78/courses-plateform) |
+| **Krashi Kalyan** | Agri-tech dashboard for soil insights, crop planning, disease risk and market comparison | ML, JavaScript, Data Visualization | [Source](https://github.com/prashant-singh-78/krashi-kalyan) |
 
 <div align="center">
-  <strong>More builds:</strong><br /><br />
-  <a href="https://github.com/prashant-singh-78/krashi-kalyan"><img src="https://img.shields.io/badge/Krashi_Kalyan-16A34A?style=flat-square" alt="Krashi Kalyan" /></a>
-  <a href="https://sound-vision-theta.vercel.app"><img src="https://img.shields.io/badge/Sound_Vision-E11D48?style=flat-square" alt="Sound Vision" /></a>
-  <a href="https://github.com/prashant-singh-78/skin-desease.ml"><img src="https://img.shields.io/badge/Skin_Disease_AI-F97316?style=flat-square" alt="Skin Disease Predictor" /></a>
-  <a href="https://github.com/prashant-singh-78/streamlite"><img src="https://img.shields.io/badge/Streamlite-DC2626?style=flat-square" alt="Streamlite" /></a>
-  <a href="https://github.com/prashant-singh-78/jarvis"><img src="https://img.shields.io/badge/Jarvis-2563EB?style=flat-square" alt="Jarvis" /></a>
-  <a href="https://github.com/prashant-singh-78/publish-india"><img src="https://img.shields.io/badge/Publish_India-9333EA?style=flat-square" alt="Publish India" /></a>
+  <a href="https://github.com/prashant-singh-78?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
+  </a>
 </div>
 
-> github_metrics --live
+## Highlights
+
+- 🏆 **Winner — VGU National Project Exhibition**, Academic Year 2024–25
+- 📜 Completed IBM learning in **AI using Retrieval-Augmented Generation (RAG)**
+- 💡 Built multi-domain projects in healthcare, agriculture, education, computer vision and SaaS
+- 🤝 Participated in hackathons, technical exhibitions and collaborative development events
+
+## Current Focus
+
+```text
+Building      Production-oriented AI and full-stack applications
+Learning      DSA, system design, core CS and MLOps fundamentals
+Exploring     RAG pipelines, secure APIs and scalable architectures
+Preparing     GATE CS 2027
+```
+
+## GitHub Activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-78&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=C084FC" alt="Prashant's live GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh-78&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" alt="Prashant's most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prashant-singh-78&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE" alt="Prashant's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=prashant-singh-78&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Prashant's live GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="66%" src="https://streak-stats.demolab.com?user=prashant-singh-78&amp;hide_border=true&amp;background=0D1117&amp;ring=22D3EE&amp;fire=F97316&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=C084FC&amp;sideLabels=94A3B8&amp;dates=64748B" alt="Prashant's live GitHub contribution streak" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-singh-78&bg_color=0D1117&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&area_color=075985&hide_border=true" alt="Prashant's contribution activity graph" />
 </div>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-singh-78&amp;bg_color=0D1117&amp;color=94A3B8&amp;line=22D3EE&amp;point=C084FC&amp;area=true&amp;area_color=164E63&amp;hide_border=true" alt="Prashant's live GitHub contribution graph" />
-</div>
+## Beyond Code
 
-> current_focus
+I believe strong technology begins with understanding the actual problem. My goal is to combine engineering fundamentals, responsible AI and thoughtful product design to build software that is useful—not just impressive in a demo.
 
-AI systems       ███████████████████░  95%
-Full-stack apps  ██████████████████░░  90%
-DSA & GATE CS    ███████████████░░░░░  75%
-Open source      ████████████░░░░░░░░  60%
+## Connect
 
 <div align="center">
-  <h3>Let's build something intelligent and useful.</h3>
   <a href="https://portfolio-2-o-two.vercel.app/">
-    <img src="https://img.shields.io/badge/See_My_Work-22D3EE?style=for-the-badge&amp;logo=vercel&amp;logoColor=0F172A" alt="See my work" />
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
   </a>
   <a href="https://github.com/prashant-singh-78">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Designed and built with curiosity, code and a little neural energy ⚡</sub>
+  <sub>Building intelligent products with purpose, curiosity and consistent execution.</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=120&section=footer" alt="Footer" />
 </div>
 
