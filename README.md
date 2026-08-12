@@ -202,7 +202,6 @@ My work focuses on transforming real problems into practical software across **h
 BUILD     Production-oriented AI and full-stack applications
 LEARN     DSA, system design, core CS and MLOps fundamentals
 EXPLORE   RAG pipelines, secure APIs and scalable architectures
-PREPARE   GATE CS 2027
 ```
 
 <br />
