@@ -1,8 +1,5 @@
-<!-- =========================================================
-     PRASHANT SINGH — PROFESSIONAL GITHUB PROFILE README
-     Theme: Deep Burgundy • Crimson • Metallic Gold
-     Single-file version: no assets folder required
-========================================================== -->
+
+
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:170708,45:7F1D1D,100:D4AF37&amp;height=240&amp;section=header&amp;text=PRASHANT%20SINGH&amp;fontSize=54&amp;fontColor=FFE7A3&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&amp;descAlignY=58&amp;descSize=19" alt="Prashant Singh — AI Engineer and Full-Stack Developer" />
